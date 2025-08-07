@@ -40,12 +40,15 @@
 ### Passport
 
 **bad**
+
 ![Preview – Passport](Icons/passport_preview_DeathNote_bad.png)
 
 **okay**
+
 ![Preview – Passport](Icons/passport_preview_DeathNote_okay.png)
 
 **happy**
+
 ![Preview – Passport](Icons/passport_preview_DeathNote_happy.png)
 
 ---
