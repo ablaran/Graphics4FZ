@@ -9,7 +9,7 @@ Includes **animations**, **asset packs**, and **icons** for graphical customizat
 - **Asset Packs** – Collections of images and sprites designed for use with the **Momentum** firmware.
 - **Icons** – Same content as asset packs, organized by theme (e.g., Bluetooth, Passport, etc.).
 - Each item includes a downloadable ZIP archive for selective installation.
-- Previews are provided under each pack to display included graphics.
+- Previews are provided under the "Preview" folder.
 
 ## How to Use Asset Packs (Momentum)
 
@@ -24,3 +24,4 @@ For suggestions, issues, or contributions:
 
 - [@ablaran on Telegram](https://t.me/ablaran)  
 - GitHub Issues: use the Issues tab in this repository or send a message on telegram
+
