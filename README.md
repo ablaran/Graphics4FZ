@@ -20,9 +20,7 @@ Includes **animations**, **asset packs**, and **icons** for graphical customizat
 
 ## Contact
 
-For suggestions, issues, or contributions:
+For suggestions, issues, or contributions use the Issues tab in this repository or send a message on telegram
 
-- [@ablaran on Telegram](https://t.me/ablaran)  
-- GitHub Issues: use the Issues tab in this repository or send a message on telegram
 
 
