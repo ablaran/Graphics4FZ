@@ -7,7 +7,7 @@ Includes **animations**, **asset packs**, and **icons** for graphical customizat
 
 - **Animations** – Simple, lightweight loops compatible with most firmwares.
 - **Asset Packs** – Collections of images and sprites designed for use with the **Momentum** firmware.
-- **Icons** – Same content as asset packs, organized by theme (e.g., Bluetooth, Passport, etc.).
+- **Icons** – Same content as asset packs, organized by theme (e.g. Bluetooth, Passport, etc.).
 - Each Asset Pack includes a downloadable ZIP archive for selective installation.
 - Previews are provided under the "Preview" folder.
 
@@ -21,6 +21,7 @@ Includes **animations**, **asset packs**, and **icons** for graphical customizat
 ## Contact
 
 For suggestions, issues, or contributions use the Issues tab in this repository or send a message on telegram
+
 
 
 
