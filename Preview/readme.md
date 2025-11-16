@@ -40,7 +40,6 @@
 
 ### Passport
 
-<<<<<<< HEAD
 ![Preview – Passport](Icons/passport_preview_DeathNote.png)
 
 **bad**
