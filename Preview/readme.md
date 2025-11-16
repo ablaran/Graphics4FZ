@@ -3,11 +3,7 @@
 ### Ken Animation
 
 ![Preview – Ken Animation](Anims/ken_preview.gif)
-<<<<<<< HEAD
 
----
-=======
->>>>>>> 5e04aa555e09c4be45a09eb5e2c6fc5d50640deb
 
 ### Walking Naruto Animation
 
@@ -46,7 +42,7 @@
 
 <<<<<<< HEAD
 ![Preview – Passport](Icons/passport_preview_DeathNote.png)
-=======
+
 **bad**
 
 ![Preview – Passport](Icons/passport_preview_DeathNote_bad.png)
@@ -58,7 +54,6 @@
 **happy**
 
 ![Preview – Passport](Icons/passport_preview_DeathNote_happy.png)
->>>>>>> 5e04aa555e09c4be45a09eb5e2c6fc5d50640deb
 
 ---
 
