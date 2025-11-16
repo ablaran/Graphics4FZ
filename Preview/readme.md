@@ -40,8 +40,6 @@
 
 ### Passport
 
-![Preview – Passport](Icons/passport_preview_DeathNote.png)
-
 **bad**
 
 ![Preview – Passport](Icons/passport_preview_DeathNote_bad.png)
